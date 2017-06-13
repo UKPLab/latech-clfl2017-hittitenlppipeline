@@ -18,7 +18,7 @@ Hittite NLP Pipeline
 }
 
 
-The Hittite NLP pipeline has the following modules:
+The Hittite NLP pipeline has the following parts:
 
 1. Preprocessing
 2. Stemming
