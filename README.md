@@ -1,32 +1,22 @@
 Hittite NLP Pipeline
 
+{
 
 @inproceedings{TUD-CS-2017-0133,
-
 	title = {Distantly Supervised POS Tagging of Low-Resource Languages under Extreme Data Sparsity: The Case of Hittite},
-
 	author = {Sukhareva, Maria and Daxenberger, Johannes and Fuscagni, Francesco and Prechel, Doris and G{\"o}rke, Susanne},
-
 	organization = {tba},
-
 	publisher = {tba},
-
 	volume = {tba},
-
 	booktitle = {LaTeCH '17 Proceedings of the 11th Workshop on Language Technology for Cultural Heritage, Social Sciences, and Humanities},
 	pages = {tba},
-
 	number = {tba},
-
 	month = aug,
-
 	year = {2017},
-
-	abstract = {This paper presents a statistical approach to automatic morphosyntactic annotation of Hittite transcripts. Hittite is an extinct Indo-European language using the cuneiform script. There are currently no{\&}nbsp;{\&}nbsp; morphosyntactic annotations available for Hittite, so we explored methods of distant supervision. <br />The annotations were projected from parallel German translations of the Hittite texts. In order to reduce data sparsity, we applied stemming of German and Hittite texts. As there is no off-the-shelf Hittite stemmer, a stemmer for Hittite was developed for this purpose. The resulting annotation projections were used to train a POS tagger, achieving an accuracy of 69\% on a test sample. To our knowledge, this is the first attempt of statistical POS tagging of a cuneiform language.},
-
 	location = {Vancouver},
-
 	website  = {https://github.com/UKPLab/latech-clfl2017-hittitenlppipeline},
+}
+
 }
 
 
