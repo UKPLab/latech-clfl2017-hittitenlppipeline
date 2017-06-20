@@ -1,6 +1,6 @@
 Hittite NLP Pipeline
 
-{
+[[https://www.ukp.tu-darmstadt.de/publications/?no_cache=1&tx_dppublications_pi1%5Bpublication%5D=10481&tx_dppublications_pi1%5Baction%5D=show&tx_dppublications_pi1%5Bcontroller%5D=Publication&cHash=b8407d50f0bf26eb0cdbfd56d71dfc42#dp_publications-single]]
 
 @inproceedings{TUD-CS-2017-0133,
 	title = {Distantly Supervised POS Tagging of Low-Resource Languages under Extreme Data Sparsity: The Case of Hittite},
@@ -17,7 +17,6 @@ Hittite NLP Pipeline
 	website  = {https://github.com/UKPLab/latech-clfl2017-hittitenlppipeline},
 }
 
-}
 
 
 The Hittite NLP pipeline has the following parts:
