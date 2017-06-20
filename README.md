@@ -44,8 +44,8 @@ GizaExecutor.java
 
 The Hittite corpus used as input of this pipeline can be provided on request.
 
-@inproceedings{TUD-CS-2017-0133,
 
+	@inproceedings{TUD-CS-2017-0133,
 	title = {Distantly Supervised POS Tagging of Low-Resource Languages under Extreme Data Sparsity: The Case of Hittite},
 	author = {Sukhareva, Maria and Daxenberger, Johannes and Fuscagni, Francesco and Prechel, Doris and G{\"o}rke, Susanne},
 	organization = {tba},
@@ -58,7 +58,6 @@ The Hittite corpus used as input of this pipeline can be provided on request.
 	year = {2017},
 	location = {Vancouver},
 	website  = {https://github.com/UKPLab/latech-clfl2017-hittitenlppipeline},
-}
-
+	}
 
 
