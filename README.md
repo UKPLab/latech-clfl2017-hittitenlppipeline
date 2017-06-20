@@ -35,9 +35,9 @@ http://www.phontron.com/pialign/
 Pialign takes a long to time to be trained so you can use our pretrained model in alignment/alignment.palign
 If you want to train your own pialign model you need to uncomment this in Pipeline.java
 
-//			 PialignExecutor pe = new PialignExecutor("aligned.punct.1",
-//					"clean-corpus.transliteration",
-//					"clean-corpus.translation", 100, false);
+	//			 PialignExecutor pe = new PialignExecutor("aligned.punct.1",
+	//					"clean-corpus.transliteration",
+	//					"clean-corpus.translation", 100, false);
 
 You also need to change the location of pialign in runperlscript.sh and of moses in
 GizaExecutor.java
