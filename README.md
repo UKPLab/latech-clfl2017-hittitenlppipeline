@@ -44,20 +44,17 @@ GizaExecutor.java
 
 The Hittite corpus used as input of this pipeline can be provided on request.
 
-
-	@inproceedings{TUD-CS-2017-0133,
+Please cite as:
+```
+@inproceedings{TUD-CS-2017-0133,
 	title = {Distantly Supervised POS Tagging of Low-Resource Languages under Extreme Data Sparsity: The Case of Hittite},
-	author = {Sukhareva, Maria and Daxenberger, Johannes and Fuscagni, Francesco and Prechel, Doris and G{\"o}rke, Susanne},
-	organization = {tba},
-	publisher = {tba},
-	volume = {tba},
+	author = {Sukhareva, Maria and Fuscagni, Francesco and Daxenberger, Johannes and G{\"o}rke, Susanne and Prechel, Doris and Gurevych, Iryna},
 	booktitle = {LaTeCH '17 Proceedings of the 11th Workshop on Language Technology for Cultural Heritage, Social Sciences, and Humanities},
-	pages = {tba},
-	number = {tba},
+	pages = {to appear},
 	month = aug,
 	year = {2017},
-	location = {Vancouver},
-	website  = {https://github.com/UKPLab/latech-clfl2017-hittitenlppipeline},
-	}
+	location = {Vancouver}
+}
+```
 
 
