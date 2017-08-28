@@ -50,7 +50,7 @@ Please cite as:
 	title = {Distantly Supervised POS Tagging of Low-Resource Languages under Extreme Data Sparsity: The Case of Hittite},
 	author = {Sukhareva, Maria and Fuscagni, Francesco and Daxenberger, Johannes and G{\"o}rke, Susanne and Prechel, Doris and Gurevych, Iryna},
 	booktitle = {LaTeCH '17 Proceedings of the 11th Workshop on Language Technology for Cultural Heritage, Social Sciences, and Humanities},
-	pages = {to appear},
+	pages = {95--104},
 	month = aug,
 	year = {2017},
 	location = {Vancouver}
